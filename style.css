@@ -307,6 +307,7 @@ body {
     flex-direction: column;
     border-bottom: 2px solid black;
     padding-bottom: 40px;
+    text-align: center;
 }
 
 .ddk span {
@@ -473,19 +474,19 @@ body {
 
     .ddk span {
         font-weight: bold;
-        font-size: 35px;
-    }
-
-    .ddk p {
         font-size: 25px;
     }
 
+    .ddk p {
+        font-size: 15px;
+    }
+
     .tto span {
-        font-size: 35px;
+        font-size: 25px;
     }
 
     .tto p {
-        font-size: 18px;
+        font-size: 12px;
     }
 
     .aak {
